@@ -17,3 +17,6 @@ Here are some generated samples:
 
 ![Alt text](images/sample2.png)
 ![Alt text](images/sample8.png)
+![Alt text](images/sample7.png)
+![Alt text](images/sample13.png)
+
